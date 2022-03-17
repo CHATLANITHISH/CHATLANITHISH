@@ -1,0 +1,105 @@
+<!Doctype html>
+<html lang="en">
+
+<head>
+
+    <title> New Design</title>
+
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewreport" content="device-width,intial-scale=1">
+
+    <!--favicons-->
+
+    <link rel="Shorcut icon" href="Images/Favicons/favicon-16x16.png">
+
+    <!--Boot strap Css-->
+
+    <link rel="stylesheet" href="css/bootstrap_css/bootstrap.css">
+
+    <!--Custom Css-->
+
+    <link rel="stylesheet" href="css/mystyle.css">
+
+
+
+    <!--JQuery-->
+    <script src="js/jquery-3.6.0.js"></script>
+
+    <!--Back Ground Video-->
+    <section id="background">
+
+
+        <!--
+        <img id="img" src="Images/mountains-gc0bbe9b8d_1280.jpg" alt="">
+        
+-->
+
+
+
+    </section>
+    <!--Overplay-->
+
+    <div id="overplay">
+
+
+    </div>
+    <!--Google Fonts-->
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Teko&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+    <!-- Bootstrap Js-->
+
+    <script src="js/bootstarp_js/bootstrap.js"> </script>
+
+    <!--Java Script-->
+    <script src="js/myscript.js"></script>
+   
+
+    
+    <!--Home Content-->
+
+    <section id="Home">
+
+        <video id="img" src="Videos/Ocean%20-%2019609.mp4" autoplay muted loop></video>
+
+        <h1 id="Home-1">
+            Web Design<br>
+            <spam>Development</spam> <br>Course
+        </h1>
+
+        <p>Web Design is a Speacialisation Of the design stream.They aslo use HTML.
+            CSS.etc..to create <br> Design elements. </p>
+
+
+
+        <button class=" btn btn-home btn-gnrl" type="button" title="Join us">JOIN US</button>
+    </section>
+
+  
+
+
+
+
+</body>
+
+
+
+
+
+
+</html>
